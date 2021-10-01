@@ -28,7 +28,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 I encountered issues with trying to get the time stamp to post on the app.
 
 ## Open-source libraries used
